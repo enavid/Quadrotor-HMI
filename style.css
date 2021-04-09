@@ -23,19 +23,18 @@ header {
     padding: 0;
 }
 
-.navbar li {
-    padding: 1rem;
-}
-
 .navbar li a {
     color: #fff;
+    display: block;
+    padding: 1rem;
     text-decoration: none;
 }
 
-.navbar li:hover {
+.navbar li a:hover {
     background-color: #93cb52;
     border-radius: 5px;
     color: #f4f4f4;
+    cursor: pointer;
 }
 
 .header-quad {
