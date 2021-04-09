@@ -46,6 +46,11 @@ header {
     color: white;
 }
 
+#selcet {
+    background-color: #93cb52;
+    border-radius: 5px;
+}
+
 /* ============================= Quadrotor picture =========================== */
 #header-p {
     display: flex;
